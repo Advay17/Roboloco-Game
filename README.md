@@ -1,0 +1,1 @@
+A game made by FRC Team ACL Roboloco 5338 that is currently a WIP. Currently, only the dialogue system is working. For a demo of it, clone this repo to your computer and open the project using unity. If you run the project, you should be able to use the dialogue system yourself.
